@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-ReduxSmallApp/static/css/main.9098fe9e.chunk.css",
+    "main.js": "/React-ReduxSmallApp/static/js/main.f2bc9202.chunk.js",
+    "main.js.map": "/React-ReduxSmallApp/static/js/main.f2bc9202.chunk.js.map",
+    "runtime-main.js": "/React-ReduxSmallApp/static/js/runtime-main.5863456c.js",
+    "runtime-main.js.map": "/React-ReduxSmallApp/static/js/runtime-main.5863456c.js.map",
+    "static/js/2.cc68f2d0.chunk.js": "/React-ReduxSmallApp/static/js/2.cc68f2d0.chunk.js",
+    "static/js/2.cc68f2d0.chunk.js.map": "/React-ReduxSmallApp/static/js/2.cc68f2d0.chunk.js.map",
+    "index.html": "/React-ReduxSmallApp/index.html",
+    "precache-manifest.8a1902046286da070e8c1c672baefd23.js": "/React-ReduxSmallApp/precache-manifest.8a1902046286da070e8c1c672baefd23.js",
+    "service-worker.js": "/React-ReduxSmallApp/service-worker.js",
+    "static/css/main.9098fe9e.chunk.css.map": "/React-ReduxSmallApp/static/css/main.9098fe9e.chunk.css.map",
+    "static/media/pokeball.png": "/React-ReduxSmallApp/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5863456c.js",
+    "static/js/2.cc68f2d0.chunk.js",
+    "static/css/main.9098fe9e.chunk.css",
+    "static/js/main.f2bc9202.chunk.js"
+  ]
+}
